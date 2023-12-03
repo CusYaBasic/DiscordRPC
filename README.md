@@ -26,7 +26,7 @@ This plugin is designed for users of Unreal Engine 5. It will help you to create
 
 ## Initialization 5.2
 
-Version 5.3 has changed a little bit. it now has ```DiscordGameInstance``` class which handles most of the logic for you; streamlining the process, making it much faster to get up and running.
+Version 5.2 has changed a little bit. it now has ```DiscordGameInstance``` class which handles most of the logic for you; streamlining the process, making it much faster to get up and running.
 
 1) You need to inherit your ```GameInstance``` class from ```DiscordGameInstance```:
    
